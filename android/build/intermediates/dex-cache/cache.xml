@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-74e28f5125b861d6570c776c29b22ef91e4a6a24.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-69650dd3f4c0460d01f672270fea1b0883444be3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-feb7bf43ba8ce06b01e3c729077fdf1cacf436df.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-3c2a8beae9e97747307598ca8fb1b56325f9b32d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-063876f6ddd75f8108c5f754ec56ffd9db939b5b.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-25f62eeb8e87c73971b7e3815c6b44289a367bb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-e77dbc2c6e392191634bca97197ed0592bdfff86.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-5965ef5ea87c5e6a2ee5ab4b03a2624863fb892f.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-c5e4b845882457c3b3552f52321ed491e3c03441.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-66ca832fd8371c7b057b8ed36772e30a8102d78e.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-033774f93db4abb2342f2f6364a48fcfbd88a81c.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-07426dd8104185686ec8bcf07d94008cbdbe8625.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-b23ca68d3762650af5eb284378dd43920c6457a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-19b3176348ff15732a42cd014fdfee7c1bdde0e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-f8adce9b99d9ac8a066a3337e1f874b5d58037d5.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-833668464b02705303cee77365017e645a459b0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-e6224a8644653f6ee2a17fa0648415e05aa415be.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-99ea60ad2ba8d0f4b0d6a90c9f505779f02baf4c.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-c8f2a32d44b1b3dc957458560ac6424ca2cc1db2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ADITYA\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-986e9202c679b023d81d211f02f633201c2602c5.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-348535c23b0a893ad62644cc5acb9e33442e4466.jar" />
+    </item>
+    <item
+        jar="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="E:\Akash\Workspace\reactnative\manager\android\app\build\intermediates\pre-dexed\debug\classes-471d3e00113fcaa0ab51fc3abe1314496cd97a52.jar" />
+    </item>
+
+</items>
